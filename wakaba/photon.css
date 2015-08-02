@@ -131,7 +131,7 @@ table td
 	color: #cccccc;
 }
 
-.spoiler: hover, .spoiler: hover *
+.spoiler:hover, .spoiler:hover *
 {
 	color: inherit;
 }

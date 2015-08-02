@@ -78,7 +78,7 @@ a:hover
 	color: #f0d0b6;
 }
 
-.spoiler: hover, .spoiler: hover *
+.spoiler:hover, .spoiler:hover *
 {
 	color: inherit;
 }
